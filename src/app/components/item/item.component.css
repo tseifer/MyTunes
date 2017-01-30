@@ -1,0 +1,28 @@
+.item-name{
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  background: gray;
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+  color: white;
+}
+
+.item-info{
+  color:gray;
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 30px;
+  border-radius: 0 0 5px 5px;
+  font-family: arial;
+}
+
+.item-title
+{
+  font-weight: bold;
+  color : black;
+  font-size: 30px;
+}
+

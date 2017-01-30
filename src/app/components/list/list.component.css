@@ -1,0 +1,23 @@
+.list
+{
+  width         : 80%;
+  margin        : auto;
+  border        : 1px solid gray;
+  padding       : 20px;
+  border-radius : 10px;
+  background    : white;
+}
+
+.list input
+{
+  width   : 80%;
+  height  : 30px;
+  padding : 10px;
+  margin  : auto;
+  display : block;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  border:none;
+  background: #eee;
+}
